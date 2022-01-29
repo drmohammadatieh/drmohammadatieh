@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drmohammadatieh
 - 👀 I’m interested in Dentistry & Computer Science
 - 🌱 I’m currently learning more about Computer Science
-- 💞️ I’m looking to collaborate on projects that helps Dentistry and Dental Educaition in the near future
+- 💞️ I’m looking to collaborate on projects that helps Dentistry and Dental Education in the near future
 - 📫 You can reach me by email : drmohammadatieh@gmail.com
 
 <!---
